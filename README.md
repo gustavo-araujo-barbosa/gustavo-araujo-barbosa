@@ -1,41 +1,52 @@
-# Gustavo Barbosa
+![Gustavo Barbosa — Finance, Data and Automation](https://raw.githubusercontent.com/gustavo-araujo-barbosa/gustavo-araujo-barbosa/main/assets/finance-data-banner.png)
 
-### Finance, Data & Automation
-
-FP&A Analyst at Skyone · Accounting graduate · Data Science student at FIAP
-
-[LinkedIn](https://www.linkedin.com/in/gustavo-de-araujo-barbosa/) · [Português](https://github.com/gustavo-araujo-barbosa/gustavo-araujo-barbosa/blob/main/README.pt-BR.md)
+<p align="center">
+  <strong>FP&A Analyst at Skyone · Accounting graduate · Data Science student at FIAP</strong><br>
+  <a href="https://www.linkedin.com/in/gustavo-de-araujo-barbosa/">LinkedIn</a> ·
+  <a href="https://github.com/gustavo-araujo-barbosa/gustavo-araujo-barbosa/blob/main/README.pt-BR.md">Português</a>
+</p>
 
 I work with financial data and reporting automation. Here I share personal and academic projects, the problems behind them and how they are built.
 
-## Projects
+## Selected projects
 
-### [Aceiro — fire and drought bulletin](https://github.com/gustavo-araujo-barbosa/aceiro-painel)
+### Aceiro · Public data for local decisions
 
-An academic team project exploring how public data can support family farmers in Pará, Brazil.
+[![Aceiro — actual prototype screen showing the technician's dashboard, municipal alerts and map](https://raw.githubusercontent.com/gustavo-araujo-barbosa/gustavo-araujo-barbosa/main/assets/aceiro-dashboard.png)](https://github.com/gustavo-araujo-barbosa/aceiro-painel)
 
-- **Problem:** making information about fire activity and drought easier to understand at municipal level.
-- **Explore:** a Streamlit prototype with a farmer's bulletin, a technician's dashboard and an explanation of the data and demonstration rules.
-- **Context:** FIAP Global Solution 2026/2, developed by the Raiz de Dados team. Team credits, data sources, limitations and local setup instructions are in the project README.
+An academic team project exploring how public data on fire activity and drought can support family farmers in Pará, Brazil.
 
-**Python · Streamlit · Public data**
+- **The problem:** making technical information easier to understand at municipal level.
+- **The prototype:** a farmer's bulletin, a technician's dashboard and an explanation of the data and demonstration rules.
+- **The team:** Raiz de Dados · FIAP Global Solution 2026/2. Team credits are in the project README.
 
-Academic prototype. Message delivery is simulated; the dashboard has not been validated with farmers or field technicians.
+**Python · Pandas · Streamlit · PyDeck**
 
-### Finance Data Hub
+[Explore the project, sources and local setup →](https://github.com/gustavo-araujo-barbosa/aceiro-painel)
 
-A personal learning project combining financial analytics, data preparation and a local application.
+<details>
+<summary>See the farmer's view and prototype notes</summary>
 
-- **Problem:** organizing financial data so that analyses can be traced back to their sources and transformation rules.
-- **In development:** a data workflow using public financial statements from Brazil's CVM, alongside a local application using synthetic data.
-- **Current project tools:** Python, DuckDB, dbt and Streamlit.
+![Aceiro — actual farmer's view showing a simulated radio bulletin and a weekly chart](https://raw.githubusercontent.com/gustavo-araujo-barbosa/gustavo-araujo-barbosa/main/assets/aceiro-bulletin.png)
+
+Screens captured from the actual application, using its public data. This is an academic prototype: message delivery is simulated, and the dashboard has not been validated with farmers or field technicians. The alert level uses a demonstration rule, not the project's separately tested statistical model.
+
+</details>
+
+### Finance Data Hub · Financial analytics and data workflows
+
+**Personal project · In development**
+
+Organizing financial data so that analyses can be traced back to their sources and transformation rules. The project includes work with public financial statements from Brazil's CVM and a local application using synthetic data.
+
+**Python · DuckDB · dbt · Streamlit**
 
 The repository is private. A public case study is being prepared.
 
-## Professional background
+## Where finance meets implementation
 
 At Skyone, I build and validate SQL views in SAP HANA, automate reporting workflows with Excel and Power Query, and maintain financial KPI dashboards in Zoho Analytics. Earlier, at Itaú Unibanco, I built a Power BI dashboard for the team's workload reporting.
 
 My professional focus is financial data and automation. My personal projects are a place to develop and demonstrate broader data skills.
 
-[More about my professional experience on LinkedIn](https://www.linkedin.com/in/gustavo-de-araujo-barbosa/)
+[More about my professional experience on LinkedIn →](https://www.linkedin.com/in/gustavo-de-araujo-barbosa/)
