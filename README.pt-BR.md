@@ -1,6 +1,6 @@
 ![Gustavo Barbosa · SQL, BI e automação](https://raw.githubusercontent.com/gustavo-araujo-barbosa/gustavo-araujo-barbosa/main/assets/data-portfolio-banner.png)
 
-[**Portfólio**](https://gustavo-barbosa-data-portfolio.rocky-wave-5547.chatgpt.site) · [**LinkedIn**](https://www.linkedin.com/in/gustavo-de-araujo-barbosa/) · [**English**](https://github.com/gustavo-araujo-barbosa/gustavo-araujo-barbosa)
+[**Portfólio**](https://gustavo-araujo-barbosa.github.io) · [**LinkedIn**](https://www.linkedin.com/in/gustavo-de-araujo-barbosa/) · [**English**](https://github.com/gustavo-araujo-barbosa/gustavo-araujo-barbosa)
 
 Na Skyone, crio e valido bases em SQL, automatizo relatórios financeiros e mantenho dashboards de indicadores.
 
@@ -22,8 +22,8 @@ Projeto pessoal em desenvolvimento. O objetivo é rastrear cada análise até a 
 
 **Python · DuckDB · dbt · Streamlit · Docker** · SQL previsto
 
-[**Conhecer o projeto**](https://gustavo-barbosa-data-portfolio.rocky-wave-5547.chatgpt.site/#finance-data-hub)
+[**Conhecer o projeto**](https://gustavo-araujo-barbosa.github.io/#finance-data-hub)
 
 ## Aplicação profissional
 
-**Skyone.** Criei 10+ automações de relatórios financeiros. Trabalho com views SQL no SAP HANA, Excel e Power Query e mantenho dashboards automatizados de indicadores financeiros no Power BI. [Conhecer o caso](https://gustavo-barbosa-data-portfolio.rocky-wave-5547.chatgpt.site/#skyone).
+**Skyone.** Criei 10+ automações de relatórios financeiros. Trabalho com views SQL no SAP HANA, Excel e Power Query e mantenho dashboards automatizados de indicadores financeiros no Power BI. [Conhecer o caso](https://gustavo-araujo-barbosa.github.io/#skyone).

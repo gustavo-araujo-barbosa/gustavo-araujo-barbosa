@@ -1,6 +1,6 @@
 ![Gustavo Barbosa · SQL, BI and automation](https://raw.githubusercontent.com/gustavo-araujo-barbosa/gustavo-araujo-barbosa/main/assets/data-portfolio-banner.png)
 
-[**Portfolio**](https://gustavo-barbosa-data-portfolio.rocky-wave-5547.chatgpt.site/?lang=en) · [**LinkedIn**](https://www.linkedin.com/in/gustavo-de-araujo-barbosa/) · [**Português**](https://github.com/gustavo-araujo-barbosa/gustavo-araujo-barbosa/blob/main/README.pt-BR.md)
+[**Portfolio**](https://gustavo-araujo-barbosa.github.io/?lang=en) · [**LinkedIn**](https://www.linkedin.com/in/gustavo-de-araujo-barbosa/) · [**Português**](https://github.com/gustavo-araujo-barbosa/gustavo-araujo-barbosa/blob/main/README.pt-BR.md)
 
 I build and validate SQL datasets, automate financial reporting, and maintain KPI dashboards at Skyone.
 
@@ -22,8 +22,8 @@ Personal project in development. The goal is to trace each analysis back to a pu
 
 **Python · DuckDB · dbt · Streamlit · Docker** · SQL planned
 
-[**Read about the project**](https://gustavo-barbosa-data-portfolio.rocky-wave-5547.chatgpt.site/?lang=en#finance-data-hub)
+[**Read about the project**](https://gustavo-araujo-barbosa.github.io/?lang=en#finance-data-hub)
 
 ## Applied at work
 
-**Skyone.** Built 10+ financial reporting automations. I work with SQL views in SAP HANA, Excel and Power Query, and maintain automated Power BI dashboards for financial KPIs. [Read the case](https://gustavo-barbosa-data-portfolio.rocky-wave-5547.chatgpt.site/?lang=en#skyone).
+**Skyone.** Built 10+ financial reporting automations. I work with SQL views in SAP HANA, Excel and Power Query, and maintain automated Power BI dashboards for financial KPIs. [Read the case](https://gustavo-araujo-barbosa.github.io/?lang=en#skyone).
